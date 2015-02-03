@@ -13,6 +13,15 @@
 		1AF56AB71A81379700EE348B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AB61A81379700EE348B /* Images.xcassets */; };
 		1AF56ABA1A81379700EE348B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AB81A81379700EE348B /* LaunchScreen.xib */; };
 		1AF56AC61A81379800EE348B /* LionsAndTigersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF56AC51A81379800EE348B /* LionsAndTigersTests.swift */; };
+		1AF56AD01A813B6300EE348B /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF56ACF1A813B6300EE348B /* Tiger.swift */; };
+		1AF56ADB1A8168FF00EE348B /* BengalTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD31A8168FF00EE348B /* BengalTiger.jpg */; };
+		1AF56ADC1A8168FF00EE348B /* IndochineseTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD41A8168FF00EE348B /* IndochineseTiger.jpg */; };
+		1AF56ADD1A8168FF00EE348B /* Lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD51A8168FF00EE348B /* Lion.jpg */; };
+		1AF56ADE1A8168FF00EE348B /* LionCub1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD61A8168FF00EE348B /* LionCub1.jpg */; };
+		1AF56ADF1A8168FF00EE348B /* LionCub2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD71A8168FF00EE348B /* LionCub2.jpeg */; };
+		1AF56AE01A8168FF00EE348B /* Lioness.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD81A8168FF00EE348B /* Lioness.jpeg */; };
+		1AF56AE11A8168FF00EE348B /* MalayanTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56AD91A8168FF00EE348B /* MalayanTiger.jpg */; };
+		1AF56AE21A8168FF00EE348B /* SiberianTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AF56ADA1A8168FF00EE348B /* SiberianTiger.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,15 @@
 		1AF56ABF1A81379800EE348B /* LionsAndTigersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LionsAndTigersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AF56AC41A81379800EE348B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AF56AC51A81379800EE348B /* LionsAndTigersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LionsAndTigersTests.swift; sourceTree = "<group>"; };
+		1AF56ACF1A813B6300EE348B /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		1AF56AD31A8168FF00EE348B /* BengalTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BengalTiger.jpg; sourceTree = "<group>"; };
+		1AF56AD41A8168FF00EE348B /* IndochineseTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IndochineseTiger.jpg; sourceTree = "<group>"; };
+		1AF56AD51A8168FF00EE348B /* Lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lion.jpg; sourceTree = "<group>"; };
+		1AF56AD61A8168FF00EE348B /* LionCub1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LionCub1.jpg; sourceTree = "<group>"; };
+		1AF56AD71A8168FF00EE348B /* LionCub2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LionCub2.jpeg; sourceTree = "<group>"; };
+		1AF56AD81A8168FF00EE348B /* Lioness.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lioness.jpeg; sourceTree = "<group>"; };
+		1AF56AD91A8168FF00EE348B /* MalayanTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MalayanTiger.jpg; sourceTree = "<group>"; };
+		1AF56ADA1A8168FF00EE348B /* SiberianTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SiberianTiger.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +98,7 @@
 				1AF56AAF1A81379700EE348B /* AppDelegate.swift */,
 				1AF56AB11A81379700EE348B /* ViewController.swift */,
 				1AF56AB31A81379700EE348B /* Main.storyboard */,
+				1AF56ACF1A813B6300EE348B /* Tiger.swift */,
 				1AF56AB61A81379700EE348B /* Images.xcassets */,
 				1AF56AB81A81379700EE348B /* LaunchScreen.xib */,
 				1AF56AAD1A81379700EE348B /* Supporting Files */,
@@ -90,6 +109,14 @@
 		1AF56AAD1A81379700EE348B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1AF56AD31A8168FF00EE348B /* BengalTiger.jpg */,
+				1AF56AD41A8168FF00EE348B /* IndochineseTiger.jpg */,
+				1AF56AD51A8168FF00EE348B /* Lion.jpg */,
+				1AF56AD61A8168FF00EE348B /* LionCub1.jpg */,
+				1AF56AD71A8168FF00EE348B /* LionCub2.jpeg */,
+				1AF56AD81A8168FF00EE348B /* Lioness.jpeg */,
+				1AF56AD91A8168FF00EE348B /* MalayanTiger.jpg */,
+				1AF56ADA1A8168FF00EE348B /* SiberianTiger.jpg */,
 				1AF56AAE1A81379700EE348B /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +219,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AF56ADC1A8168FF00EE348B /* IndochineseTiger.jpg in Resources */,
 				1AF56AB51A81379700EE348B /* Main.storyboard in Resources */,
 				1AF56ABA1A81379700EE348B /* LaunchScreen.xib in Resources */,
+				1AF56AE01A8168FF00EE348B /* Lioness.jpeg in Resources */,
+				1AF56ADE1A8168FF00EE348B /* LionCub1.jpg in Resources */,
+				1AF56AE11A8168FF00EE348B /* MalayanTiger.jpg in Resources */,
+				1AF56AE21A8168FF00EE348B /* SiberianTiger.jpg in Resources */,
+				1AF56ADB1A8168FF00EE348B /* BengalTiger.jpg in Resources */,
 				1AF56AB71A81379700EE348B /* Images.xcassets in Resources */,
+				1AF56ADD1A8168FF00EE348B /* Lion.jpg in Resources */,
+				1AF56ADF1A8168FF00EE348B /* LionCub2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AF56AB21A81379700EE348B /* ViewController.swift in Sources */,
+				1AF56AD01A813B6300EE348B /* Tiger.swift in Sources */,
 				1AF56AB01A81379700EE348B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
